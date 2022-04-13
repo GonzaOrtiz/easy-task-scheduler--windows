@@ -1,0 +1,15 @@
+C:\Users\GONZALO\source\repos\primer-recordatorio\primer-recordatorio\bin\Debug\net6.0\primer-recordatorio.exe
+C:\Users\GONZALO\source\repos\primer-recordatorio\primer-recordatorio\bin\Debug\net6.0\primer-recordatorio.deps.json
+C:\Users\GONZALO\source\repos\primer-recordatorio\primer-recordatorio\bin\Debug\net6.0\primer-recordatorio.runtimeconfig.json
+C:\Users\GONZALO\source\repos\primer-recordatorio\primer-recordatorio\bin\Debug\net6.0\primer-recordatorio.dll
+C:\Users\GONZALO\source\repos\primer-recordatorio\primer-recordatorio\bin\Debug\net6.0\ref\primer-recordatorio.dll
+C:\Users\GONZALO\source\repos\primer-recordatorio\primer-recordatorio\bin\Debug\net6.0\primer-recordatorio.pdb
+C:\Users\GONZALO\source\repos\primer-recordatorio\primer-recordatorio\obj\Debug\net6.0\primer-recordatorio.csproj.AssemblyReference.cache
+C:\Users\GONZALO\source\repos\primer-recordatorio\primer-recordatorio\obj\Debug\net6.0\primer-recordatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GONZALO\source\repos\primer-recordatorio\primer-recordatorio\obj\Debug\net6.0\primer-recordatorio.AssemblyInfoInputs.cache
+C:\Users\GONZALO\source\repos\primer-recordatorio\primer-recordatorio\obj\Debug\net6.0\primer-recordatorio.AssemblyInfo.cs
+C:\Users\GONZALO\source\repos\primer-recordatorio\primer-recordatorio\obj\Debug\net6.0\primer-recordatorio.csproj.CoreCompileInputs.cache
+C:\Users\GONZALO\source\repos\primer-recordatorio\primer-recordatorio\obj\Debug\net6.0\primer-recordatorio.dll
+C:\Users\GONZALO\source\repos\primer-recordatorio\primer-recordatorio\obj\Debug\net6.0\ref\primer-recordatorio.dll
+C:\Users\GONZALO\source\repos\primer-recordatorio\primer-recordatorio\obj\Debug\net6.0\primer-recordatorio.pdb
+C:\Users\GONZALO\source\repos\primer-recordatorio\primer-recordatorio\obj\Debug\net6.0\primer-recordatorio.genruntimeconfig.cache
